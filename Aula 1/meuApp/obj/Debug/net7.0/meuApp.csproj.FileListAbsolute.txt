@@ -1,0 +1,14 @@
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\bin\Debug\net7.0\meuApp.exe
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\bin\Debug\net7.0\meuApp.deps.json
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\bin\Debug\net7.0\meuApp.runtimeconfig.json
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\bin\Debug\net7.0\meuApp.dll
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\bin\Debug\net7.0\meuApp.pdb
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\meuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\meuApp.AssemblyInfoInputs.cache
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\meuApp.AssemblyInfo.cs
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\meuApp.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\meuApp.dll
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\refint\meuApp.dll
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\meuApp.pdb
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\meuApp.genruntimeconfig.cache
+C:\Users\jhonathan.oliveira\Desktop\projetoFaculdade\meuApp\obj\Debug\net7.0\ref\meuApp.dll
