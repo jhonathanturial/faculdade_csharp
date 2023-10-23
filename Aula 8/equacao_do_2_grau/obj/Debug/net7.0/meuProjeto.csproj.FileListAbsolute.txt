@@ -1,0 +1,28 @@
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\bin\Debug\net7.0\meuProjeto.exe
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\bin\Debug\net7.0\meuProjeto.deps.json
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\bin\Debug\net7.0\meuProjeto.runtimeconfig.json
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\bin\Debug\net7.0\meuProjeto.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\bin\Debug\net7.0\meuProjeto.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\meuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\meuProjeto.AssemblyInfoInputs.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\meuProjeto.AssemblyInfo.cs
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\meuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\meuProjeto.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\refint\meuProjeto.dll
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\meuProjeto.pdb
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\meuProjeto.genruntimeconfig.cache
+C:\Users\jhona\OneDrive\Área de Trabalho\rep\faculdade_csharp\Aula 8\meuProjeto\obj\Debug\net7.0\ref\meuProjeto.dll
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\bin\Debug\net7.0\meuProjeto.exe
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\bin\Debug\net7.0\meuProjeto.deps.json
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\bin\Debug\net7.0\meuProjeto.runtimeconfig.json
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\bin\Debug\net7.0\meuProjeto.dll
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\bin\Debug\net7.0\meuProjeto.pdb
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\meuProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\meuProjeto.AssemblyInfoInputs.cache
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\meuProjeto.AssemblyInfo.cs
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\meuProjeto.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\meuProjeto.dll
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\refint\meuProjeto.dll
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\meuProjeto.pdb
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\meuProjeto.genruntimeconfig.cache
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\equacao_do_2_grau\obj\Debug\net7.0\ref\meuProjeto.dll

@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhona\\OneDrive\\Área de Trabalho\\rep\\faculdade_csharp\\Aula 8\\meuProjeto\\meuProjeto.csproj": {}
+    "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\equacao_do_2_grau\\meuProjeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhona\\OneDrive\\Área de Trabalho\\rep\\faculdade_csharp\\Aula 8\\meuProjeto\\meuProjeto.csproj": {
+    "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\equacao_do_2_grau\\meuProjeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhona\\OneDrive\\Área de Trabalho\\rep\\faculdade_csharp\\Aula 8\\meuProjeto\\meuProjeto.csproj",
+        "projectUniqueName": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\equacao_do_2_grau\\meuProjeto.csproj",
         "projectName": "meuProjeto",
-        "projectPath": "C:\\Users\\jhona\\OneDrive\\Área de Trabalho\\rep\\faculdade_csharp\\Aula 8\\meuProjeto\\meuProjeto.csproj",
-        "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhona\\OneDrive\\Área de Trabalho\\rep\\faculdade_csharp\\Aula 8\\meuProjeto\\obj\\",
+        "projectPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\equacao_do_2_grau\\meuProjeto.csproj",
+        "packagesPath": "C:\\Users\\jhonathan.oliveira\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\equacao_do_2_grau\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jhonathan.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

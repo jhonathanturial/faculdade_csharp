@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 1\\meuApp\\meuApp.csproj": {}
+    "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\projetoEstoque\\projetoEstoque.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 1\\meuApp\\meuApp.csproj": {
+    "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\projetoEstoque\\projetoEstoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 1\\meuApp\\meuApp.csproj",
-        "projectName": "meuApp",
-        "projectPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 1\\meuApp\\meuApp.csproj",
+        "projectUniqueName": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\projetoEstoque\\projetoEstoque.csproj",
+        "projectName": "projetoEstoque",
+        "projectPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\projetoEstoque\\projetoEstoque.csproj",
         "packagesPath": "C:\\Users\\jhonathan.oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 1\\meuApp\\obj\\",
+        "outputPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\projetoEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhonathan.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 1\\meuApp\\meuApp.csproj",
-      "projectName": "meuApp",
-      "projectPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 1\\meuApp\\meuApp.csproj",
+      "projectUniqueName": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\equacao_do_2_grau\\meuProjeto.csproj",
+      "projectName": "meuProjeto",
+      "projectPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\equacao_do_2_grau\\meuProjeto.csproj",
       "packagesPath": "C:\\Users\\jhonathan.oliveira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 1\\meuApp\\obj\\",
+      "outputPath": "C:\\Users\\jhonathan.oliveira\\Desktop\\REPOSITORIO\\faculdade_csharp\\Aula 8\\equacao_do_2_grau\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhonathan.oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config"
