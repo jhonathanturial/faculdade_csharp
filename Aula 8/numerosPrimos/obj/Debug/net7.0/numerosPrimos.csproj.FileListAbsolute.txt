@@ -1,0 +1,14 @@
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\bin\Debug\net7.0\numerosPrimos.exe
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\bin\Debug\net7.0\numerosPrimos.deps.json
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\bin\Debug\net7.0\numerosPrimos.runtimeconfig.json
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\bin\Debug\net7.0\numerosPrimos.dll
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\bin\Debug\net7.0\numerosPrimos.pdb
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\numerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\numerosPrimos.AssemblyInfoInputs.cache
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\numerosPrimos.AssemblyInfo.cs
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\numerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\numerosPrimos.dll
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\refint\numerosPrimos.dll
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\numerosPrimos.pdb
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\numerosPrimos.genruntimeconfig.cache
+C:\Users\jhonathan.oliveira\Desktop\REPOSITORIO\faculdade_csharp\Aula 8\numerosPrimos\obj\Debug\net7.0\ref\numerosPrimos.dll
