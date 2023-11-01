@@ -42,7 +42,7 @@ class Program
         produto.Preco = double.Parse(Console.ReadLine());
         Console.Write("Quantidade no estoque: ");
         produto.Quantidade = int.Parse(Console.ReadLine());
-
+        // Jhonathan Turial - RU: 3993727
         Console.WriteLine($"Dados do produto: {produto.Nome}, $ {produto.Preco:F2}");
         Console.WriteLine($"{produto.Quantidade} unidades");
         Console.WriteLine($"Total: $ {produto.ValorTotalEmEstoque():F2}");

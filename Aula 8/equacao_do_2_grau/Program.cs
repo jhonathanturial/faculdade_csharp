@@ -6,39 +6,54 @@ class Program
     {
         Console.WriteLine("Calculadora de Raízes Quadráticas");
 
-        // Ler os valores de a, b e c
-        double a, b, c;
-        if (!TryGetCoefficient("a", out a) || !TryGetCoefficient("b", out b) || !TryGetCoefficient("c", out c))
+        while (true)
         {
-            Console.WriteLine("Valores inválidos. Certifique-se de inserir números válidos para 'a', 'b' e 'c'.");
-            return;
-        }
+            // Ler o RU do usuário
+            Console.Write("Digite seu RU de 7 números (ou pressione Ctrl+C para sair): ");
+            string ru = Console.ReadLine();
 
-        // Calcular o delta
-        double delta = b * b - 4 * a * c;
+            // Verificar se a entrada tem 7 dígitos
+            if (ru.Length != 7 || !IsNumeric(ru))
+            {
+                Console.WriteLine("O RU deve conter exatamente 7 dígitos numéricos.");
+                continue;
+            }
 
-        // Verificar se é possível calcular as raízes
-        if (a == 0)
-        {
-            Console.WriteLine("O valor de 'a' não pode ser zero. Impossível calcular.");
-        }
-        else if (delta < 0)
-        {
-            Console.WriteLine("Delta é negativo. Impossível calcular as raízes reais.");
-        }
-        else
-        {
-            // Calcular as raízes usando a fórmula de Bhaskara
-            double sqrtDelta = Math.Sqrt(delta);
-            double x1 = (-b + sqrtDelta) / (2 * a);
-            double x2 = (-b - sqrtDelta) / (2 * a);
-            Console.WriteLine($"As raízes da equação são:\nx1 = {x1}\nx2 = {x2}");
+            // Extrair os valores de A, B e C
+            char a = ru[0];
+            char b = ru[1];
+            char c = ru[2];
+
+            double coeficienteA = double.Parse(a.ToString());
+            double coeficienteB = double.Parse(b.ToString());
+            double coeficienteC = double.Parse(c.ToString());
+
+            // Calcular o delta
+            double delta = coeficienteB * coeficienteB - 4 * coeficienteA * coeficienteC;
+
+            // Verificar se é possível calcular as raízes
+            if (coeficienteA == 0)
+            {
+                Console.WriteLine("O valor de A não pode ser zero. Impossível calcular.");
+            }
+            else if (delta < 0)
+            {
+                Console.WriteLine("Delta é negativo. Impossível calcular as raízes reais.");
+            }
+            else
+            {
+                // Calcular as raízes usando a fórmula de Bhaskara
+                double sqrtDelta = Math.Sqrt(delta);
+                double x1 = (-coeficienteB + sqrtDelta) / (2 * coeficienteA);
+                double x2 = (-coeficienteB - sqrtDelta) / (2 * coeficienteA);
+                Console.WriteLine($"Os valores de A, B e C a partir do RU são:\nA = {coeficienteA}\nB = {coeficienteB}\nC = {coeficienteC}");
+                Console.WriteLine($"As raízes da equação são:\nx1 = {x1}\nx2 = {x2}");
+            }
         }
     }
 
-    static bool TryGetCoefficient(string coefficientName, out double coefficient)
+    static bool IsNumeric(string input)
     {
-        Console.Write($"Digite o valor de {coefficientName}: ");
-        return double.TryParse(Console.ReadLine(), out coefficient);
+        return int.TryParse(input, out _);
     }
 }
